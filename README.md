@@ -11,3 +11,5 @@ This is a simple Python project that generates and displays a QR code for any in
 Install dependencies:
 
 pip install qrcode[pil]
+
+
