@@ -10,6 +10,4 @@ This is a simple Python project that generates and displays a QR code for any in
 ## 🛠️ Requirements
 Install dependencies:
 
-l
-
 pip install qrcode[pil]
